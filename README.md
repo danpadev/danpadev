@@ -1,32 +1,7 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Daniel</h1>
 <h3 align="left">I am a passionate full-stack software engineer with extensive experience dedicated to providing the highest result to my customers. I follow a well-structured methodology and focus on creating a long-term successful project that is easy to grow and maintain and I pride myself on working hard and delivering the best results on time.</h3>
 
-<p align="left">
-  <a href="https://github.com/danpadev/danpadev">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
-  </a>
-  <a href="https://macropower.readthedocs.io/en/latest">
-    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
-  </a>
-  <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://reddit.com/u/macropower">
-    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
-  </a>
-  <a href="https://github.com/MacroPower?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
-  </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
-</p>
-
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
-</a>
-
-- :office: &nbsp;I've been working as a software engineer for over 10 years.
+- :office: &nbsp;I've been working as a software engineer for over **10** years.
 - :seedling: &nbsp;I'm currently working as a full time freelancer.
 - :speech_balloon: &nbsp;I love to solve **complex problems**
 
